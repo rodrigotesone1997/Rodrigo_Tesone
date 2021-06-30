@@ -36,7 +36,7 @@ Paralelamente estoy trabajando con el paquete [Selenium](https://selenium-python
 
 ### Lenguajes
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2021/02/Python-language-1-.png" alt="python"></code>
 <code><img height="27" src="https://alvaroperdiz.com/images/headers/postgresql.png" alt="postgresql"></code>
 
 ### Sistemas operativos
