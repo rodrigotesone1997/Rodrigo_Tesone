@@ -30,3 +30,24 @@ Respecto a sistemas operativos utilize Windows por mucho tiempo y actualmente es
 - Entender que yo solo no siempre puedo resolver todos los problemas que aparecen
 - Capacidad autodidacta (practicamente todo lo relacionado a informatica lo aprendi por mi cuenta)
 
+
+# Lenguajes y herramientas:
+
+### IDE
+<code><img height="27" src="https://d3b8hk1o42ev08.cloudfront.net/wp-content/uploads/2018/10/codepolitan_anaconda_700_350-image700x350-crop.png" alt="anaconda"></code>
+<code><img height="27" src="https://empresas.blogthinkbig.com/wp-content/uploads/2019/03/Figura1LogoJupyter.png" alt="jupyternotebook"></code>
+<code><img height="27" src="https://azurecomcdn.azureedge.net/cvt-e59711d997ff74147dd7db5220a6ba86f8f46065ac1cb9d82b7a98727890278f/images/page/products/visual-studio-code/vscode-logo.png" alt="vscode"></code>
+<code><img height="27" src="https://www.marketing-branding.com/wp-content/uploads/2020/07/google-colaboratory-colab-guia-completa.jpg" alt="colab"></code>
+
+### Lenguajes
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://alvaroperdiz.com/images/headers/postgresql.png" alt="postgresqp"></code>
+
+### S.O
+
+<code><img height="27" src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2014/02/31472-todo-ubuntu-que-es-que-podemos-esperar-este.jpg?itok=3Rn5Yhq9" alt="ubuntu"></code>
+
+### Control de versiones
+
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
