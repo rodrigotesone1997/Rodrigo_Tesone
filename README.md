@@ -4,15 +4,17 @@ Soy Rodrigo, tengo 24 años, estudio Lic. en Fisica y programo con Python como h
 Me defino basicamente como un apasionado de resolver problemas. Las matematicas, la fisica y la programacion son mis herramientas para resolverlos.  
 
 ## 🔍 Otros lugares donde encontrarme
-
-  <a href="https://www.linkedin.com/in/rodrigo-tesone" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  **Perfil profesional**<br /></br>
-  <a href="https://twitter.com/rodrigotesone97" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  **Aca me podes verme comentando pavadas, a veces proyectos y cosas copadas** <br /></br>
-  <a href="https://es.quora.com/profile/Rodrigo-Tesone" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>
-  **Aca trato de todas las noches responder alguna pregunta y aprender algo nuevo**<br /></br>
-  <a href="https://medium.com/@rodrigotesone1997" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  **Aca escribo sobre mis experiencias en programación y la historia de algunos proyectos**<br /></br>
+  <a href="https://www.linkedin.com/in/rodrigo-tesone" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></br>
+**Aca podes ver mi perfil profesional**</br></br>
+  
+  <a href="https://twitter.com/rodrigotesone97" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></br>
+  **Aca me podes verme comentando pavadas, a veces proyectos y cosas copadas** </br></br>
+  
+  <a href="https://es.quora.com/profile/Rodrigo-Tesone" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a></br>
+  **Aca trato de todas las noches responder algunas preguntas y aprender algo nuevo**</br></br>
+  
+  <a href="https://medium.com/@rodrigotesone1997" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a></br>
+  **Aca escribo sobre mis experiencias en programación y la historia de algunos proyectos**</br></br>
 
 # Podes mandame un mail
 
