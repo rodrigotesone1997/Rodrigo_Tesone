@@ -1,10 +1,37 @@
-<h1 align="center">Bienvenido 👋</h1>
+<h1 align="center">Bienvenido <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h1>
 
-# Presentacion
+# Presentación
 
 Soy Rodrigo, tengo 24 años, estudio Lic. en Fisica y programo con Python como herramienta principal.</br>
-Me defino basicamente como un apasionado de resolver problemas.Las matematicas, la fisica y la programacion son mis herramientas para resolverlos.
+Me defino basicamente como un apasionado de resolver problemas. Las matematicas, la fisica y la programacion son mis herramientas para resolverlos.  
 
+## 🔍 Otros lugares donde encontrarme
+
+
+  <a href="https://www.linkedin.com/in/rodrigo-tesone" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/rodrigotesone97" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://es.quora.com/profile/Rodrigo-Tesone" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>
+  <a href="https://medium.com/@rodrigotesone1997" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+# Contacto
+
+  <a href="mailto:rodrigotesone1997@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rodrigotesone97@outlook.com.ar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+
+# Mi Github en Datos
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigotesone1997&show_icons=true&locale=en&layout=compact" alt="rodrigotesone1997" /></p>
+
+
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rodrigotesone1997)-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigotesone1997&show_icons=true&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigotesone1997&theme=default)  
+
+  
+<!--<p align="center"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigotesone1997/notis_personalizadas?style=for-the-badge">    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rodrigotesone1997?style=for-the-badge">    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rodrigotesone1997/notis_personalizadas?style=for-the-badge">-->
+  
 # ¿En que soy bueno? ¿Que se hacer?
 
 Tengo conocimientos en analisis de funciones, algebra lineal, calculo multivariable, resolucion de ecuaciones diferenciales y estadistica.</br>
