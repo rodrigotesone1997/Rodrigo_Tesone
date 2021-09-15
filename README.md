@@ -3,28 +3,7 @@
 Soy Rodrigo, tengo 24 años, estudio Lic. en Fisica y programo con Python como herramienta principal.</br>
 Me defino basicamente como un apasionado de resolver problemas. Las matematicas, la fisica y la programacion son mis herramientas para resolverlos.  
 
-## 🔍 Otros lugares donde encontrarme
-  <a href="https://www.linkedin.com/in/rodrigo-tesone" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></br>
-**Aca podes ver mi perfil profesional**</br></br>
-  
-  <a href="https://twitter.com/rodrigotesone97" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></br>
-  **Aca me podes verme comentando pavadas, a veces proyectos y cosas copadas** </br></br>
-  
-  <a href="https://es.quora.com/profile/Rodrigo-Tesone" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a></br>
-  **Aca trato de todas las noches responder algunas preguntas y aprender algo nuevo**</br></br>
-  
-  <a href="https://medium.com/@rodrigotesone1997" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a></br>
-  **Aca escribo sobre mis experiencias en programación y la historia de algunos proyectos**</br></br>
-
-# Podes mandame un mail
-
-  <a href="mailto:rodrigotesone1997@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:rodrigotesone97@outlook.com.ar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-
 # Mi Github en Datos
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigotesone1997&show_icons=true&locale=en&layout=compact" alt="rodrigotesone1997" /></p>
-
 
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rodrigotesone1997)-->
 
@@ -57,6 +36,8 @@ Paralelamente estoy trabajando con el paquete [Selenium](https://selenium-python
 
 # Lenguajes y herramientas:
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigotesone1997&show_icons=true&locale=en&layout=compact" alt="rodrigotesone1997" /></p>
+
 ### IDE
 
 <code><img height="50" src="https://d3b8hk1o42ev08.cloudfront.net/wp-content/uploads/2018/10/codepolitan_anaconda_700_350-image700x350-crop.png" alt="anaconda"></code>
@@ -81,3 +62,23 @@ Paralelamente estoy trabajando con el paquete [Selenium](https://selenium-python
 ### Herramientas de BI
 
 <code><img height="50" src="https://www.mdmarketingdigital.com/blog/wp-content/uploads/2019/06/Data-Studio-Stats-1200x700.png" alt="data studio"></code>
+
+
+
+## 🔍 Otros lugares donde encontrarme
+  <a href="https://www.linkedin.com/in/rodrigo-tesone" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></br>
+**Aca podes ver mi perfil profesional**</br></br>
+  
+  <a href="https://twitter.com/rodrigotesone97" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></br>
+  **Aca me podes verme comentando pavadas, a veces proyectos y cosas copadas** </br></br>
+  
+  <a href="https://es.quora.com/profile/Rodrigo-Tesone" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a></br>
+  **Aca trato de todas las noches responder algunas preguntas y aprender algo nuevo**</br></br>
+  
+  <a href="https://medium.com/@rodrigotesone1997" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a></br>
+  **Aca escribo sobre mis experiencias en programación y la historia de algunos proyectos**</br></br>
+  
+  # Podes mandame un mail
+
+  <a href="mailto:rodrigotesone1997@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rodrigotesone97@outlook.com.ar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
